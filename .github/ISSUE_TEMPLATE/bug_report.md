@@ -1,0 +1,24 @@
+---
+name: Bug report
+about: Report an issue with V-Mouse鼠标映射
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Describe the issue:**
+A clear description of what's not working.
+
+**Your setup:**
+- macOS version:
+- Mouse model:
+- Connection type (Bluetooth/Dongle/USB):
+
+**Steps to reproduce:**
+1. 
+2. 
+3. 
+
+**Console output:**
+Run from Terminal and paste any `[HID]` or error logs:
