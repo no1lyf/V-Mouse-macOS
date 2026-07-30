@@ -1,0 +1,2 @@
+"NSAppleEventsUsageDescription" = "V-Mouse鼠标映射需要处理并发送输入事件，以执行您设置的鼠标按键二次映射。";
+"NSBluetoothAlwaysUsageDescription" = "V-Mouse鼠标映射扫描蓝牙鼠标以读取电量。";
