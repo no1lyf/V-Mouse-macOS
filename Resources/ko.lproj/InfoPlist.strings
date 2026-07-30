@@ -1,0 +1,2 @@
+"NSAppleEventsUsageDescription" = "V-Mouse鼠标映射 앱은 설정한 마우스 버튼 재매핑을 실행하기 위해 입력 이벤트를 처리하고 전송합니다.";
+"NSBluetoothAlwaysUsageDescription" = "V-Mouse鼠标映射 앱은 배터리 잔량을 확인하기 위해 Bluetooth 마우스를 검색합니다.";
