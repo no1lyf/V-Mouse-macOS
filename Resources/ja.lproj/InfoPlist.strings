@@ -1,0 +1,2 @@
+"NSAppleEventsUsageDescription" = "V-Mouse鼠标映射は、設定したマウスボタンの再割り当てを実行するために入力イベントを処理・送信します。";
+"NSBluetoothAlwaysUsageDescription" = "V-Mouse鼠标映射は、バッテリー残量を取得するためにBluetoothマウスを検索します。";
