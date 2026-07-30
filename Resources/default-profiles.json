@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Default": {
+      "buttons": {}
+    }
+  },
+  "settings": {
+    "currentProfile": "Default",
+    "autoSwitchProfiles": false,
+    "showNotifications": true
+  }
+}
